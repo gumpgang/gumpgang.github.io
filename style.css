@@ -11,6 +11,15 @@
     height: 20em;
 }
 
+.sponsor {
+    float: left;
+    width: 40%;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 15px;
+    background-color: grey;
+}
+
 nav {
     background-color: lightsteelblue;
     overflow: hidden;
@@ -29,8 +38,7 @@ nav a {
     font-size: 17px;
 }
 
-h1, h2 
-{
+h1, h2 {
     text-align: center;
 }
 
