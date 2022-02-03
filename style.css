@@ -20,6 +20,29 @@
     background-color: grey;
 }
 
+.member {
+    width: 90%;
+    max-height: 20em;
+    overflow: hidden;
+    text-align: left;
+    height: auto;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 15px;
+    background-color: grey;
+    display: flex;
+}
+
+.memberInfo {
+    flex: 1;
+}
+
+.memberImg img {
+    height: 100%;
+
+
+}
+
 nav {
     background-color: lightsteelblue;
     overflow: hidden;
