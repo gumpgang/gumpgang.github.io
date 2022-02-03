@@ -11,12 +11,29 @@
     height: 20em;
 }
 
-nav
-{
-    background-color:lightsteelblue;
+nav {
+    background-color: lightsteelblue;
+    overflow: hidden;
+    width: 100%;
 }
 
-body
+nav img {
+    float: left;
+}
+
+nav a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+h1, h2 
 {
+    text-align: center;
+}
+
+body {
     font-family: comic;
 }
